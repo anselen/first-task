@@ -26,6 +26,11 @@ Format is as given below:
    Skills: graphics designer < br />
    Github: @E-boss28 <br />
    and any  other details you wish to add. <br />
+ 3. Name : Nwafor Anselem Chijioke
+   email : anselemsnwafor@gmail.com
+   learning track: Date Science
+   skills Programmar ,
+   Whatsap details : 08166317926
    
    -------------------------------------------------
    
